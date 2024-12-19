@@ -1,0 +1,12 @@
+Expression: MCMXCIV    +   MMXXIV 
+Decimal Result: 4018
+Word Form: Four Thousand Eighteen 
+
+Expression: DCCC   +   MMMCMXCIX 
+Decimal Result: 4799
+Word Form: Four Thousand Seven Hundred Ninety Nine 
+
+Expression: MMCDLXXVII   +   MMMDCCCLXXXVIII
+Decimal Result: 6365
+Word Form: Six Thousand Three Hundred Sixty Five 
+
